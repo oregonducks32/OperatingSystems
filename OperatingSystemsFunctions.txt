@@ -3,3 +3,6 @@ iOS and Apple did a great job designing the multitask function on their devices 
 
 iOS Siri
 Apple designed Siri in 2010 and has since been a big part in the use of their phones. Its so easy to look something up with Siri. You don't have to go surf the web anymore, all you need to do is press a button and ask a question. Siri will then research and get you the answer.
+
+iOS Home Screen
+The home screen for Apple devices is super uniqe because all of your applications are displayed in an easy to read format. They also allow you to put your most used apps at the bottom of the screen for quick access. iOS's home screen is friendly and easy to use for new users which is a huge benefit.
