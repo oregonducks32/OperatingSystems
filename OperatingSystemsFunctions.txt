@@ -1,2 +1,5 @@
 iOS Multitasking
 iOS and Apple did a great job designing the multitask function on their devices because it made it super easy and simple to switch between apps. This helps alot when you are working on multiple projects and need to get them done in a timely manner.It is similar to haveing to monitors on your PC, it makes things run more smoothly.
+
+iOS Siri
+Apple designed Siri in 2010 and has since been a big part in the use of their phones. Its so easy to look something up with Siri. You don't have to go surf the web anymore, all you need to do is press a button and ask a question. Siri will then research and get you the answer.
